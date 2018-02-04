@@ -9,4 +9,6 @@ the goal is to understand everything in the engine (function/structure/variable)
 
 Download it from the repo and place it in "C:\Windows\SysWOW64".
 
+## Note: This has been tested on Windows 7 only (working perfectly with no bug, the soundtrack as well) it should probably work on windows 10.
+
 # Enjoy !

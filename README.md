@@ -14,3 +14,5 @@ Download it from the repo and place it in "C:\Windows\SysWOW64".
 ## Note: This has been tested on Windows 7 only (working perfectly with no bug, the soundtrack as well) it should probably work on windows 10.
 
 # Enjoy !
+
+If you are interested in helping me for reversing this game you can add me on skype: deadfeol@outlook.com you need knowledge with IDA/Debugger and hacking off course, thanks !

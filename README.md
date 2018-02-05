@@ -16,3 +16,24 @@ Download it from the repo and place it in "C:\Windows\SysWOW64".
 # Enjoy !
 
 If you are interested in helping me for reversing this game you can add me on skype: deadfeol@outlook.com you need knowledge with IDA/Debugger and hacking off course, thanks !
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+# AITD3-DASM
+Un projet fait pour désassembler Alone In The Dark 3 (PC CD-Rom) Windows 3.11 (32bits),
+le but est de comprendre tout du moteur de jeu (fonctions/structure/variable).
+
+Il semblerait que le jeu est était compiler avec Watcom "Watcom v9-*1.5  32bit NT runtime"
+
+## Comment jouer sur un PC 64Bits Alone In The Dark 3 (PC CD-Rom - Windows 3.11 version)
+1) Télécharger WAITD3.EXE depuis le dépot est remplacer votre WAITD3.EXE par celui ci (Sa apporte un patch à la file de message) pour fixé la vitesse des animations (prenez note que bizarrement, si vous garder une touche appuyer, dans l'inventaire la vitesse est 5% plus rapide, je sait pas encore pourquoi.
+
+2) wing32.dll Est en faite utiliser pour: Crée un DC (DeviceContext, BitBlt (Transfert de bloque de bits) est pour peindre. c'est la version 32Bits que le jeu recherche est qui et donc nécéssaire au lancement du jeu sur PC 64Bits.
+
+Télécharger la depuis le dépot est placer la directement dans "C:\Windows\SysWOW64".
+
+## Note: Sa a était testé sur Windows 7 Uniquement (fonctionne parfaitement sans bug, les musiques du CD aussi) sa devrais probablement fonctionner sur windows 10.
+
+# Bon Jeu !
+
+Si vous êtes intéresser pour m'aider à reverse engine le jeu, vous pouvez m'ajouter sur skype: deadfeol@outlook.com vous avez besoin de savoir utiliser IDA pro/debuggé est bien sur hacké les jeu, Merci !

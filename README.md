@@ -1,4 +1,4 @@
-# AITD3-DASM
+# AITD3-DASM (English)
 A project made for disassembling Alone In The Dark 3 (PC CD-Rom) Windows 3.11 (32Bits),
 the goal is to understand everything in the engine (function/structure/variable).
 
@@ -19,7 +19,7 @@ If you are interested in helping me for reversing this game you can add me on sk
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-# AITD3-DASM
+# AITD3-DASM (French)
 Un projet fait pour désassembler Alone In The Dark 3 (PC CD-Rom) Windows 3.11 (32bits),
 le but est de comprendre tout du moteur de jeu (fonctions/structure/variable).
 

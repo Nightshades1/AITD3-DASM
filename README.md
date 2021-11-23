@@ -15,8 +15,6 @@ Download it from the repo and place it in "C:\Windows\SysWOW64".
 
 # Enjoy !
 
-If you are interested in helping me for reversing this game you can add me on skype: deadfeol@outlook.com you need knowledge with IDA/Debugger and hacking off course, thanks !
-
 --------------------------------------------------------------------------------------------------------------------------------
 
 # AITD3-DASM (French)
@@ -35,5 +33,3 @@ Télécharger la depuis le dépot est placer la directement dans "C:\Windows\Sys
 ## Note: Sa a était testé sur Windows 7 Uniquement (fonctionne parfaitement sans bug, les musiques du CD aussi) sa devrais probablement fonctionner sur windows 10.
 
 # Bon Jeu !
-
-Si vous êtes intéresser pour m'aider à reverse engine le jeu, vous pouvez m'ajouter sur skype: deadfeol@outlook.com vous avez besoin de savoir utiliser IDA pro/debuggé est bien sur hacké les jeu, Merci !
